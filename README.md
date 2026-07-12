@@ -8,3 +8,5 @@ Envision Dallas Go-to-Market strategy presentation.
 ## Deploy on Vercel
 
 Import this repo in Vercel with the **main** branch, framework preset "Other", no build command, output directory left empty. It deploys as a static site and serves `index.html`.
+
+Last content update: July 12, 2026 — closing slides restructured (five readable slides, reordered ending).
