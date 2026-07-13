@@ -11,4 +11,4 @@ Envision Dallas Go-to-Market strategy presentation.
 
 Import this repo in Vercel with the **main** branch, framework preset "Other", no build command, output directory left empty. It deploys as a static site and serves `index.html`.
 
-Last content update: July 12, 2026 — companion brief restructured to 14 pages (Plan in Motion page added, five-lesson stall page, closing triad).
+Last content update: July 13, 2026 — five new marketplace video examples added to the Made in America section: a new "social feed" slide (SIG Sauer, Regulator Marine, Core Products — how the campaign video gets reshared to social) and two quick-win examples (Lost Dutchman Leather, Fastway Moto) on the low-hanging fruit slide.
